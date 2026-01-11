@@ -1,0 +1,5 @@
+{
+  "name": "Global Stock Pulse",
+  "description": "A comprehensive market analysis tool for US, China, Hong Kong, and Japan markets using Gemini AI for real-time insights and trend analysis.",
+  "requestFramePermissions": []
+}
